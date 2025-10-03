@@ -1,0 +1,104 @@
+[
+  { 
+    "id": "stk_1", 
+    "godownId": "g_1", 
+    "item": "Paracetamol 500mg",
+    "category": "Painkillers",
+    "quantity": 500, 
+    "manufactureDate": "2024-01-15",
+    "expiryDate": "2026-01-15",
+    "unitPrice": 2.50
+  },
+  { 
+    "id": "stk_2", 
+    "godownId": "g_1", 
+    "item": "Amoxicillin 250mg",
+    "category": "Antibiotics",
+    "quantity": 300, 
+    "manufactureDate": "2024-02-10",
+    "expiryDate": "2025-08-10",
+    "unitPrice": 8.75
+  },
+  { 
+    "id": "stk_3", 
+    "godownId": "g_1", 
+    "item": "Ibuprofen 400mg",
+    "category": "Painkillers",
+    "quantity": 180, 
+    "manufactureDate": "2024-03-20",
+    "expiryDate": "2026-03-20",
+    "unitPrice": 3.20
+  },
+  { 
+    "id": "stk_4", 
+    "godownId": "g_1", 
+    "item": "Cetirizine 10mg",
+    "category": "Antihistamines",
+    "quantity": 15, 
+    "manufactureDate": "2023-12-05",
+    "expiryDate": "2025-06-05",
+    "unitPrice": 1.50
+  },
+  { 
+    "id": "stk_5", 
+    "godownId": "g_1", 
+    "item": "Vitamin D3 60K",
+    "category": "Vitamins",
+    "quantity": 95, 
+    "manufactureDate": "2024-01-25",
+    "expiryDate": "2026-01-25",
+    "unitPrice": 45.00
+  },
+  { 
+    "id": "stk_6", 
+    "godownId": "g_2", 
+    "item": "Azithromycin 500mg",
+    "category": "Antibiotics",
+    "quantity": 60, 
+    "manufactureDate": "2024-02-15",
+    "expiryDate": "2025-02-15",
+    "unitPrice": 12.50
+  },
+  { 
+    "id": "stk_7", 
+    "godownId": "g_2", 
+    "item": "Metformin 500mg",
+    "category": "Diabetes",
+    "quantity": 420, 
+    "manufactureDate": "2024-01-10",
+    "expiryDate": "2026-01-10",
+    "unitPrice": 1.80
+  },
+  { 
+    "id": "stk_8", 
+    "godownId": "g_2", 
+    "item": "Omeprazole 20mg",
+    "category": "Antacids",
+    "quantity": 25, 
+    "manufactureDate": "2023-11-20",
+    "expiryDate": "2025-05-20",
+    "unitPrice": 4.25
+  },
+  { 
+    "id": "stk_9", 
+    "godownId": "g_3", 
+    "item": "Aspirin 75mg",
+    "category": "Cardiovascular",
+    "quantity": 350, 
+    "manufactureDate": "2024-02-20",
+    "expiryDate": "2027-02-20",
+    "unitPrice": 0.85
+  },
+  { 
+    "id": "stk_10", 
+    "godownId": "g_3", 
+    "item": "Insulin Glargine",
+    "category": "Insulin",
+    "quantity": 22, 
+    "manufactureDate": "2024-03-01",
+    "expiryDate": "2025-09-01",
+    "unitPrice": 850.00
+  }
+]
+
+

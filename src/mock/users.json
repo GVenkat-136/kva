@@ -1,0 +1,6 @@
+[
+  { "id": "u_admin", "username": "admin", "password": "admin123", "name": "Alice Admin", "role": "admin" },
+  { "id": "u_mgr", "username": "manager", "password": "manager123", "name": "Mark Manager", "role": "manager", "assignedGodownId": "g_1" }
+]
+
+

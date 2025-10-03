@@ -1,0 +1,49 @@
+[
+  { 
+    "id": "s_1", 
+    "name": "Store Alpha", 
+    "location": "Mumbai, Maharashtra",
+    "godownName": "Central Godown",
+    "addedDate": "2024-01-15",
+    "requestedBy": "Rajesh Kumar",
+    "status": "approved" 
+  },
+  { 
+    "id": "s_2", 
+    "name": "Store Beta", 
+    "location": "Delhi, NCR",
+    "godownName": "North Zone Godown",
+    "addedDate": "2024-02-20",
+    "requestedBy": "Priya Sharma",
+    "status": "approved" 
+  },
+  { 
+    "id": "s_3", 
+    "name": "Store Gamma", 
+    "location": "Bangalore, Karnataka",
+    "godownName": "South Regional Godown",
+    "addedDate": "2024-03-10",
+    "requestedBy": "Amit Patel",
+    "status": "pending" 
+  },
+  { 
+    "id": "s_4", 
+    "name": "Store Delta", 
+    "location": "Pune, Maharashtra",
+    "godownName": "Central Godown",
+    "addedDate": "2024-03-25",
+    "requestedBy": "Sneha Reddy",
+    "status": "approved" 
+  },
+  { 
+    "id": "s_5", 
+    "name": "Store Epsilon", 
+    "location": "Chennai, Tamil Nadu",
+    "godownName": "South Regional Godown",
+    "addedDate": "2024-04-05",
+    "requestedBy": "Vikram Singh",
+    "status": "pending" 
+  }
+]
+
+

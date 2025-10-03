@@ -1,0 +1,6 @@
+[
+  { "id": "g_1", "name": "Central Warehouse", "location": "Downtown" ,"startedDate": "2024-01-01" ,"completeStockValue": 1000000,"noOfStores": 10},
+  { "id": "g_2", "name": "North Depot", "location": "Uptown" ,"startedDate": "2024-01-01" ,"completeStockValue": 1000000,"noOfStores": 10}
+]
+
+
